@@ -1,0 +1,231 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MemeMosaic1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+         .head
+        {
+            background-color:#F9F211;
+            color:#000;
+            font-size:50px;
+            padding:20px;
+        }
+        body{
+            margin:0px;
+        }
+        .nav
+        {
+            background-color:#292525;
+            color:white;
+            font-size:20px;
+            padding:10px;
+           text-align: right;
+        }
+        .nav a{
+            color:white;
+            font-size:20px;
+            padding-left:10px;
+            padding-right:10px;
+            text-decoration:none;
+        }
+
+        .nav a:hover
+        {
+            background-color:black;
+            color:wheat;
+        }
+
+
+        .foot{
+            background-color:#292525;
+            color:white;
+            font-size:15px;
+            padding:10px;
+            text-align:center;
+        }
+            .login{
+            height:350px;
+            padding:40px;
+            text-align:center;
+
+          }
+        .inlogin{
+            padding-top:20px;
+            margin-left:25%;
+            width:50%;
+            background-color:#F7F7E8;
+            text-align:center;
+
+
+        }
+        input[type=text], input[type=time],input[type=date],input[type=email],input[type=password]
+        {
+             
+            padding:8px;
+            width:180px;
+            border-radius:4px;
+            margin-bottom:10px;
+
+
+
+        }
+        input[type=submit]
+        {
+            padding: 8px;
+            width: 200px;
+            border-radius: 4px;
+            margin-bottom:20px;
+            cursor:pointer;
+            background-color:#F9F211;
+             color:#000;
+        }
+
+        input[type=file]
+        {
+               padding:8px;
+            width:180px;
+            border-radius:4px;
+            margin-bottom:10px;
+            border:solid 1px;
+           
+
+        }
+        input[type=submit]:hover {
+            background-color:#101000;
+            color:yellow;
+        }
+
+        select{
+            padding:10px;
+            width:200px;
+            cursor:pointer;
+            margin-bottom:10px;
+        }
+
+         td,th{
+             padding:10px;
+             text-align:center; 
+             width:10%;    
+         }
+         th
+         {
+             background-color:#F5ECEE;
+         }
+         .row
+         {
+             content:"";
+             clear:both;
+             display:table;
+         }
+         .col{
+             float:left;
+             height:350px;
+             width:25%;
+
+         }
+            .col11{
+             float:left;
+             height:400px;
+             width:50%;
+             text-align:center;
+         }
+         .col img
+         {
+             padding-left:80px;
+              padding-top:30px;
+         }
+         .md{
+             height:500px;
+             padding-top:30px;
+ background-image: url("back.jpg");
+ background-color: #cccccc;
+ background-repeat:no-repeat;
+
+}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+           <div class="head">
+               <img src="logo.jpg" height="75" width="105" />  Meme Mosaic
+
+            </div>
+            <div class="nav">
+                <a href="defualt.aspx">Home</a>
+                <%if (Session["user"] != null)
+                    { 
+                     
+                    
+                    %>
+
+                <a href="Userhome.aspx">Userhome</a>
+                
+              
+
+                <%} %>
+
+
+                
+                
+                <%if (Session["admin"] != null)
+                    { 
+                     
+                    
+                    %>
+
+                <a href="adminhome.aspx">Adminhome</a>
+
+          
+
+                <%} %>
+
+                
+                
+                
+                
+                
+                
+                
+                
+                <%if (Session["user"] == null && Session["admin"] ==null)
+                    { 
+                     
+                    
+                    %>
+
+                <a href="login.aspx">Login</a>
+
+                <a href="register.aspx">Register</a>
+
+                <%} %>
+                 <a href="allmemes.aspx">All Memes</a>
+                <a href="Aboutus.aspx">About Us </a>
+                
+               
+                
+            </div>
+
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+         <div  class="foot">
+
+               CopyRight @2021 | All Rights Reserved | Developed By Shreyash Rangrej And Shrirang Ghode.
+             <% if (Session["email"] != null)
+                 { %>
+          <divi style="padding-left:800px;">   <asp:Button ID="Button1" runat="server" Text="Logout" OnClick="Button1_Click"  /></divi>
+             <%} %>
+            </div>
+    </div>
+    </form>
+</body>
+</html>
