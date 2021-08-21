@@ -1,0 +1,66 @@
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\ApplicationInsights.config
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\csc.exe
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\vbc.exe
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\VBCSCompiler.exe
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\MemeMosaic1.dll.config
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\MemeMosaic1.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\MemeMosaic1.pdb
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.Web.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.ApplicationInsights.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.Web.xml
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.ApplicationInsights.xml
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\obj\Debug\MemeMosaic1.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\obj\Debug\MemeMosaic1.dll
+c:\users\sam\documents\visual studio 2015\Projects\MemeMosaic1\MemeMosaic1\obj\Debug\MemeMosaic1.pdb
+D:\MemeMosaicFinal\MemeMosaic1\bin\ApplicationInsights.config
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\csc.exe
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\System.Collections.Immutable.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\System.Reflection.Metadata.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\vbc.exe
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\VBCSCompiler.exe
+D:\MemeMosaicFinal\MemeMosaic1\bin\roslyn\VBCSCompiler.exe.config
+D:\MemeMosaicFinal\MemeMosaic1\bin\MemeMosaic1.dll.config
+D:\MemeMosaicFinal\MemeMosaic1\bin\MemeMosaic1.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\MemeMosaic1.pdb
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.DependencyCollector.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.Web.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.WindowsServer.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.ApplicationInsights.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.DependencyCollector.xml
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.Web.xml
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.AI.WindowsServer.xml
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.ApplicationInsights.xml
+D:\MemeMosaicFinal\MemeMosaic1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MemeMosaicFinal\MemeMosaic1\obj\Debug\MemeMosaic1.csprojResolveAssemblyReference.cache
+D:\MemeMosaicFinal\MemeMosaic1\obj\Debug\MemeMosaic1.dll
+D:\MemeMosaicFinal\MemeMosaic1\obj\Debug\MemeMosaic1.pdb
